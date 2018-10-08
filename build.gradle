@@ -1,6 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-// test arkhi Muttaqina suwandu oke oke
+// test arkhi Muttaqina suwandi oke oke
 // ini nanti updated
+///coba coba cona 
 buildscript {
     ext.kotlin_version = '1.2.61'
     repositories {
