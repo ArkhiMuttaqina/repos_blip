@@ -2,6 +2,7 @@
 // test arkhi Muttaqina suwandi oke oke
 // ini nanti updated
 ///coba coba cona 
+//opopopopopo 
 buildscript {
     ext.kotlin_version = '1.2.61'
     repositories {
